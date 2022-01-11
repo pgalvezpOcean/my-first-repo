@@ -1,1 +1,1 @@
-# my-first-repo read me notes
+# my-first-repo
